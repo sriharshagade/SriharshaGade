@@ -9,6 +9,8 @@
 
 - 🤝 I’m looking for help with **Project collaboration**
 
+- 👨‍💻 All of my projects are available at [https://bio.link/sriharshagade](https://bio.link/sriharshagade)
+
 - 💬 Ask me about **PowerBI, Data Science, Machine Learning and Statistics**
 
 - 📫 How to reach me **sriharsha_gade@outlook.com**
@@ -19,7 +21,7 @@
 <a href="https://linkedin.com/in/sriharshagade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriharshagade" height="30" width="40" /></a>
 <a href="https://kaggle.com/sriharshagade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sriharshagade" height="30" width="40" /></a>
 <a href="https://instagram.com/sriharsha_gade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sriharsha_gade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Sriharsha_Gade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sriharshagade" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sriharshagade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sriharshagade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
