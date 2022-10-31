@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sriharsha_gade@outlook.com**
 
-- 📫 How to reach me **+91 7382871760**
+- 📫 You can <b>call/ Whatsapp me </b>at **+91 7382871760**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
