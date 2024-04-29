@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharshgade&label=Profile%20views&color=0e75b6&style=flat" alt="srivatsavagade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharshgade&label=Profile%20views&color=0e75b6&style=flat" alt="sriharsha Gade" /> </p>
 
 <p align="left">🧠 Crafting algorithms to tackle real-world challenges
 
@@ -27,8 +27,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SrivatsavaGade" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/srivatsavagade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejodhay-bonam-66b3661b0/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/srivatsava_gade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdy.bonam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sriharshagde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejodhay-bonam-66b3661b0/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sriharsha_gade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdy.bonam" height="30" width="40" /></a>
 </p>
 
 <p align="left">
